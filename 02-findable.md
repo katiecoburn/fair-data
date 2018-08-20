@@ -1,4 +1,4 @@
-h1 To be findable: 
+To be findable: 
 
 1. (meta)data are assigned a globally unique and eternally persistent identifier.
 2. data are described with rich metadata.
